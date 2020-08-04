@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html>
+
+   <head>
+       
+       {% block head %}
+
+       <title>Tita </title>
+      
+       {% endblock %}
+
+        <link rel="icon" href="https://pbs.twimg.com/profile_images/1271517147349626881/Mf1UjRa0_400x400.jpg"/>
+       <link rel="stylesheet" href="/style.css">
+    </head>
+
+    <body>
+        <header>
+            
+            <div class="links">
+                <a href="/">Sobre</a>
+                <a href="/aulas">Aulas</a>
+    
+            </div>
+            
+        </header>
+
+        {% block content %} {% endblock %}
+            
+       
+    </body>
+
+</html>
