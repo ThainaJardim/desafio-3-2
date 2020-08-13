@@ -3,13 +3,15 @@ module.exports = [
         id: "wCfSdBdr0hc",
         title:" Bruno Bortagaray Senior Frontend Engineer at JustWatch | Alumini",
         duration: "56min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "DDm0M_rZLJo",
         title: " Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes",
         duration: "1hr 13min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "c7P03kkrEG8",
@@ -27,7 +29,8 @@ module.exports = [
         id: "rCeGfFk-uCk",
         title: " Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33",
         duration: "45min",
-        price: "Free"
+        price: "Free",
+        featured: true
     }, 
     {
         id: "YQr5CIRZ4Og",

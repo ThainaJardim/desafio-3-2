@@ -164,3 +164,17 @@
             position: absolute;
             top: 5%;
         }
+        .featured-wrapper.card_image-container {
+            position: relative;
+        }
+
+        .featured {
+            background: #e5e921;
+            color: black;
+            padding: 2px 8px;
+            position: absolute;
+            right: 5px;
+            border-radius: 16px;
+            top: -10px;
+
+        }
